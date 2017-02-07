@@ -1,4 +1,4 @@
-body { font-family:tahoma, verdana, arial, helvetica, sans; font-weight:normal; font-size:9pt; background-color:#eef;  cursor:url('http://upload.wikimedia.org/wikipedia/commons/d/de/POL_apple.jpg'); }
+body { font-family:tahoma, verdana, arial, helvetica, sans; font-weight:normal; font-size:9pt; background-color:#eef; }
 html, body { padding:0; border:0; height:100%; }
 html, body, p, form { margin:0 }
 a { text-decoration:none; color:#47c; border:1px solid transparent; padding:0 0.1em; }
@@ -22,7 +22,7 @@ fieldset { margin-bottom:0.7em; text-align:left; padding:0.6em; }
 #files td:first-child { text-align:left; }
 #files td.nosize { text-align:center; font-style:italic; }
 #files .selector { display:none; }
-#actions button { margin:0.2em; }
+#actions button { margin:0.2em; } 
 #breadcrumbs { margin-top:1em; padding-left:0.5em; }
 #breadcrumbs a { padding:0.15em 0; border-width:2px; display:block; word-break:break-all; }
 #folder-stats, #foldercomment { margin-top:1em; padding-top:0.5em; border-top:1px solid #666;  }
